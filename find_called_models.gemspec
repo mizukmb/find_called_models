@@ -9,9 +9,9 @@ Gem::Specification.new do |spec|
   spec.version     = FindCalledModels::VERSION
   spec.authors     = ["mizukmb"]
   spec.email       = ["mizukmb6@gmail.com"]
-  spec.homepage    = "TODO"
-  spec.summary     = "TODO: Summary of FindCalledModels."
-  spec.description = "TODO: Description of FindCalledModels."
+  spec.homepage    = ""
+  spec.summary     = "Summary of FindCalledModels."
+  spec.description = "Description of FindCalledModels."
   spec.license     = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
